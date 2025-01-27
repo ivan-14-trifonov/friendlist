@@ -1,5 +1,5 @@
-# Deprecated
+# Изучение Redux
 
-Use this instead:
+Пишу "Hello, world!" на Redux, используя следующее руководство:
 
-https://github.com/pmmmwh/react-refresh-webpack-plugin/
+https://habr.com/ru/articles/269831/
